@@ -1,2 +1,2 @@
 # Kaggle
-Data analysis on some popular datasets
+Here's my analysis to the popular Titanic dataset on Kaggle.

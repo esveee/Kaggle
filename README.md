@@ -1,2 +1,2 @@
 # Kaggle
-Here's my analysis to the popular Titanic dataset on Kaggle.
+Adding my code for Kaggle datasets that I did really good on!
